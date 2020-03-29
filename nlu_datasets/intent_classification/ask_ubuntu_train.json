@@ -1,0 +1,214 @@
+[
+    [
+        "How to record my screen?", 
+        "none"
+    ], 
+    [
+        "How can I highlight or annotate PDFs?", 
+        "none"
+    ], 
+    [
+        "Is it worth upgrading from 12.04 LTS to 13.04", 
+        "make_update"
+    ], 
+    [
+        "Upgrade to 12.04 64 bit", 
+        "make_update"
+    ], 
+    [
+        "How to upgrade Ubuntu 14.04.1 to 14.04.2?", 
+        "make_update"
+    ], 
+    [
+        "Upgrading from Ubuntu 14.04 to 15.04", 
+        "make_update"
+    ], 
+    [
+        "how to upgrade from ubuntu 15.04 to 15.10?", 
+        "make_update"
+    ], 
+    [
+        "Upgrade 12.04 to 12.10 using startup disk", 
+        "make_update"
+    ], 
+    [
+        "How to Upgrade from 11.10 to 12.04 when you've got a problem?", 
+        "make_update"
+    ], 
+    [
+        "Update 11.04 to 12.04 with LiveCD", 
+        "make_update"
+    ], 
+    [
+        "How to upgrade Ubuntu 9.10 to 12.10 via terminal?", 
+        "make_update"
+    ], 
+    [
+        "How to upgrade from Ubuntu 10.10 to 11.04?", 
+        "make_update"
+    ], 
+    [
+        "No matter what I do Ubuntu 15.04 does not recognize HP LaserJet 1020", 
+        "setup_printer"
+    ], 
+    [
+        "How to setup HP printer/scanner on ubuntu?", 
+        "setup_printer"
+    ], 
+    [
+        "How do I setup my HP C4140 printer wirelessly?", 
+        "setup_printer"
+    ], 
+    [
+        "How to setup wireless printing from a printer connected via usb on Ubuntu Server 12.10?", 
+        "setup_printer"
+    ], 
+    [
+        "How can I install a Pantum 2502W laser printer on Ubuntu", 
+        "setup_printer"
+    ], 
+    [
+        "Install Canon MP560 Ubuntu 15.04", 
+        "setup_printer"
+    ], 
+    [
+        "How to install a Brother MFC-5890CN network printer?", 
+        "setup_printer"
+    ], 
+    [
+        "How do I install drivers for a Konica Minolta 200?", 
+        "setup_printer"
+    ], 
+    [
+        "How do I install drivers for the Panasonic MB1900CX All-in-One Printer/Scanner?", 
+        "setup_printer"
+    ], 
+    [
+        "How To Install Canon LBP2900B printer in 14.04 LTS ? I tried the method for LBP2900 but it didnt work", 
+        "setup_printer"
+    ], 
+    [
+        "Any command line calculator for Ubuntu?", 
+        "software_recommendation"
+    ], 
+    [
+        "Extracting embedded images from a PDF", 
+        "software_recommendation"
+    ], 
+    [
+        "What to use to quickly cut Audio/Video", 
+        "software_recommendation"
+    ], 
+    [
+        "Torrent client for the command-line?", 
+        "none"
+    ], 
+    [
+        "MySQL GUI Tools", 
+        "software_recommendation"
+    ], 
+    [
+        "What developer text editors are available for Ubuntu?", 
+        "software_recommendation"
+    ], 
+    [
+        "What screenshot tools are available?", 
+        "software_recommendation"
+    ], 
+    [
+        "Which programs can I use to edit PDF files?", 
+        "software_recommendation"
+    ], 
+    [
+        "Is there a lightweight tool to crop images quickly?", 
+        "software_recommendation"
+    ], 
+    [
+        "What IRC clients are available?", 
+        "software_recommendation"
+    ], 
+    [
+        "What new games are available for Ubuntu in 2011?", 
+        "software_recommendation"
+    ], 
+    [
+        "UPNP / DLNA (client) player recommendations?", 
+        "software_recommendation"
+    ], 
+    [
+        "What scientific plotting software is available?", 
+        "software_recommendation"
+    ], 
+    [
+        "Can you recommend a password generator?", 
+        "software_recommendation"
+    ], 
+    [
+        "What tools do you use to monitor a web server?", 
+        "software_recommendation"
+    ], 
+    [
+        "What is a good MongoDB GUI client?", 
+        "software_recommendation"
+    ], 
+    [
+        "Password Management Applications?", 
+        "software_recommendation"
+    ], 
+    [
+        "Is there an application for reading mobi files?", 
+        "software_recommendation"
+    ], 
+    [
+        "shut down without extra question", 
+        "shutdown_computer"
+    ], 
+    [
+        "How to shutdown computer when users are logged on?", 
+        "shutdown_computer"
+    ], 
+    [
+        "What is the proper terminal-way to shutdown?", 
+        "shutdown_computer"
+    ], 
+    [
+        "How can I automatically shutdown the system after a specific time?", 
+        "shutdown_computer"
+    ], 
+    [
+        "Hotkey to shut down from login screen?", 
+        "shutdown_computer"
+    ], 
+    [
+        "How to shutdown the computer after Xsession ends?", 
+        "shutdown_computer"
+    ], 
+    [
+        "How can one shutdown a PC using the keyboard?", 
+        "shutdown_computer"
+    ], 
+    [
+        "How can I enable shutdown verbosity?", 
+        "shutdown_computer"
+    ], 
+    [
+        "Are there any Keyboard Shortcuts to Shutdown?", 
+        "shutdown_computer"
+    ], 
+    [
+        "Shutdown after a certain time", 
+        "shutdown_computer"
+    ], 
+    [
+        "Shutdown problem in Ubuntu 16.04", 
+        "shutdown_computer"
+    ], 
+    [
+        "How do I fix a shutdown problem?", 
+        "shutdown_computer"
+    ], 
+    [
+        "What graphical utility can I use for Ubuntu auto shutdown?", 
+        "shutdown_computer"
+    ]
+]

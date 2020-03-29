@@ -1,0 +1,16 @@
+.DS_Store
+
+*.pyc
+*.json~
+*.csv~
+*.txt~
+
+*.swp
+
+*_raw.csv
+*_raw.json
+*_raw.txt
+
+Snips/*
+
+process_raw.py

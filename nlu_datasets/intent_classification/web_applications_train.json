@@ -1,0 +1,122 @@
+[
+    [
+        "How do I download a YouTube video?", 
+        "download_video"
+    ], 
+    [
+        "How do I change my password on TV Tropes?", 
+        "change_password"
+    ], 
+    [
+        "Why can't I change my password and login with Skype?", 
+        "change_password"
+    ], 
+    [
+        "Change subject line in new Gmail compose window", 
+        "none"
+    ], 
+    [
+        "Email Google Form daily?", 
+        "none"
+    ], 
+    [
+        "How can I export track.scrobble data from last.fm?", 
+        "export_data"
+    ], 
+    [
+        "How can I backup my wordpress.com hosted blog?", 
+        "export_data"
+    ], 
+    [
+        "How can I sync my Yahoo! Calendar with Google Calendar?", 
+        "sync_accounts"
+    ], 
+    [
+        "Google Bookmarks and Chrome Bookmark Sync -- Different?", 
+        "sync_accounts"
+    ], 
+    [
+        "How do I sync my RunKeeper workout schedule with Google Calender?", 
+        "sync_accounts"
+    ], 
+    [
+        "Does using Gmail's \"Never send it to Spam\" filter mean I can't train their spam filter?", 
+        "filter_spam"
+    ], 
+    [
+        "Correctly Identifying Spam Messages", 
+        "filter_spam"
+    ], 
+    [
+        "Twitter and Echofon spam", 
+        "filter_spam"
+    ], 
+    [
+        "Totally Blocking Spam To Gmail Account", 
+        "filter_spam"
+    ], 
+    [
+        "Discarding spam mail faster in Gmail", 
+        "filter_spam"
+    ], 
+    [
+        "Stopping spam emails in Gmail by pattern", 
+        "filter_spam"
+    ], 
+    [
+        "Alternatives for Google Reader (with Android synchronizing)", 
+        "find_alternative"
+    ], 
+    [
+        "Bugmenot (registration bypasser) alternative that doesn't suck?", 
+        "find_alternative"
+    ], 
+    [
+        "Alternatives to Twitter", 
+        "find_alternative"
+    ], 
+    [
+        "Google search engine alternatives", 
+        "find_alternative"
+    ], 
+    [
+        "Alternatives to Google Groups with more features?", 
+        "find_alternative"
+    ], 
+    [
+        "Are there any good Veoh or Youtube alternatives?", 
+        "find_alternative"
+    ], 
+    [
+        "Mint alternatives for Canada", 
+        "find_alternative"
+    ], 
+    [
+        "How can I delete my Twitter account?", 
+        "delete_account"
+    ], 
+    [
+        "How do I delete my LinkedIn account?", 
+        "delete_account"
+    ], 
+    [
+        "How do I delete my Gmail account?", 
+        "delete_account"
+    ], 
+    [
+        "How do I delete my Experts Exchange account?", 
+        "delete_account"
+    ], 
+    [
+        "How do I delete my Ohloh profile?", 
+        "delete_account"
+    ], 
+    [
+        "How can I permanently delete my MySpace account?", 
+        "delete_account"
+    ], 
+    [
+        "How to disable/delete a Harvest account?", 
+        "delete_account"
+    ]
+]

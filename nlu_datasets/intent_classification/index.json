@@ -1,0 +1,74 @@
+[
+    {
+        "name": "ask_ubuntu",
+        "url": "https://github.com/sebischair/NLU-Evaluation-Corpora",
+        "paper_title": "Evaluating Natural Language Understanding Services for Conversational Question Answering Systems",
+        "paper_link": "https://www.aclweb.org/anthology/W17-5522.pdf",
+        "license_link": "https://github.com/sebischair/NLU-Evaluation-Corpora/blob/master/LICENSE",
+        "license_type": "CC BY 3.0"
+    },
+    {
+        "name": "web_applications",
+        "paper_title": "Evaluating Natural Language Understanding Services for Conversational Question Answering Systems",
+        "paper_link": "https://www.aclweb.org/anthology/W17-5522.pdf",
+        "url": "https://github.com/sebischair/NLU-Evaluation-Corpora",
+        "license_link": "https://github.com/sebischair/NLU-Evaluation-Corpora/blob/master/LICENSE",
+        "license_type": "CC BY 3.0"
+    },
+    {
+        "name": "chatbot",
+        "paper_title": "Evaluating Natural Language Understanding Services for Conversational Question Answering Systems",
+        "paper_link": "https://www.aclweb.org/anthology/W17-5522.pdf",
+        "url": "https://github.com/sebischair/NLU-Evaluation-Corpora",
+        "license_link": "https://github.com/sebischair/NLU-Evaluation-Corpora/blob/master/LICENSE",
+        "license_type": "CC BY 3.0"
+    },
+    {   
+        "name": "banking77",
+        "paper_title": "Efficient Intent Detection with Dual Sentence Encoders",
+        "paper_link": "https://arxiv.org/pdf/2003.04807.pdf",
+        "url": "https://github.com/PolyAI-LDN/task-specific-datasets/tree/master/banking_data",
+        "license_link": "https://github.com/PolyAI-LDN/task-specific-datasets/blob/master/LICENSE",
+        "license_type": "CC BY-NC 4.0"
+    },
+    {
+        "name": "CLINC-150",
+        "paper_title": "An Evaluation Dataset for Intent Classification and Out-of-Scope Prediction",
+        "paper_link": "https://www.aclweb.org/anthology/D19-1131.pdf",
+        "url": "https://github.com/clinc/oos-eval",
+        "license_link": "https://github.com/clinc/oos-eval/blob/master/LICENSE.txt",
+        "license_type": "CC BY 3.0"
+    },
+    {
+        "name": "HWU-64",
+        "paper_title": "Benchmarking Natural Language Understanding Services for building Conversational Agents",
+        "paper_link": "https://arxiv.org/pdf/1903.05566.pdf",
+        "url": "https://github.com/xliuhw/NLU-Evaluation-Data",
+        "license_link": "https://github.com/xliuhw/NLU-Evaluation-Data/blob/master/LICENSE",
+        "license_type": "CC BY-SA 3.0"
+    },
+    {
+        "name": "ATIS",
+        "paper_title": "",
+        "paper_link": "",
+        "url": "",
+        "license_link": "",
+        "license_type": ""
+    },
+    {
+        "name": "Snips",
+        "paper_title": "",
+        "paper_link": "",
+        "url": "",
+        "license_link": "",
+        "license_type": ""
+    },
+    {
+        "name": "__skip__",
+        "paper_title": "",
+        "paper_link": "",
+        "url": "",
+        "license_link": "",
+        "license_type": ""
+    }
+]
